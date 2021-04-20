@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentApiClientExample", "FluentApiClientExample\FluentApiClientExample.csproj", "{B75D666B-AEDA-4071-B55E-3BA04BA43BD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{D3CDED13-B9EB-4D2E-A98F-EB9AF20829FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentApiClientExample.DependencyInjection", "FluentApiClientExample.DependencyInjection\FluentApiClientExample.DependencyInjection.csproj", "{13CB565C-17A3-4950-83B2-A1421124DB27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B75D666B-AEDA-4071-B55E-3BA04BA43BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75D666B-AEDA-4071-B55E-3BA04BA43BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75D666B-AEDA-4071-B55E-3BA04BA43BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75D666B-AEDA-4071-B55E-3BA04BA43BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CDED13-B9EB-4D2E-A98F-EB9AF20829FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CDED13-B9EB-4D2E-A98F-EB9AF20829FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CDED13-B9EB-4D2E-A98F-EB9AF20829FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CDED13-B9EB-4D2E-A98F-EB9AF20829FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13CB565C-17A3-4950-83B2-A1421124DB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CB565C-17A3-4950-83B2-A1421124DB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CB565C-17A3-4950-83B2-A1421124DB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CB565C-17A3-4950-83B2-A1421124DB27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
